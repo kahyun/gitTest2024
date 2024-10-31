@@ -1,0 +1,13 @@
+github에서 토큰발급
+팀장님
+https://github.com/kahyun1/gitTest2024.git
+[미션1]
+ - gitTestExam저장소를 github에 만들고 dynamic web project로 만든 후
+ - 로컬저장소에 commit하기
+
+[팀장(깃을 관리하는 사용자)]
+1. github사이트에 저장소만들기
+2. 원본저장소 이클립스에 만들고 github에 올리기
+	1) 로컬저장소만들기
+	2) 스테이징영역으로 github의 저장소에 올릴 파일들 추가하기
+	3) 작업폴더에 있는 파일을 로컬저장소에 저장하기
